@@ -1,0 +1,6 @@
+SID = "Your SID from Twilio"
+AUTH_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+FROM_NUMBER = "+1xxxxxxxxxxxx"
+TO_NUMBER = "+91 xxxxxxxxxx"
+API_KEY = "xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxxx"
+DEVICE_ID = "BOLTxxxxxxxx"
