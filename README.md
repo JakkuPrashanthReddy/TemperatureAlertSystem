@@ -1,3 +1,3 @@
 # TemperatureAlertSystem
 
-Alert system using Different Platform
+Alert system using Different Platforms
